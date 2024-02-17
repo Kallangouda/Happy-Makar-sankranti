@@ -24,7 +24,6 @@ To customize the project, you can modify the HTML, CSS, and JavaScript files in 
 
 - **HTML (index.html)**: Update the content and layout of the web pages, including text, images, and multimedia elements.
 - **CSS (styles.css)**: Modify the styles to change the appearance, colors, fonts, and layout of the project's components.
-- **JavaScript (script.js)**: Add or modify JavaScript code to enhance the interactivity and functionality of the project, such as adding animations, implementing user interactions, or integrating external APIs.
 
 ## Contributing
 
